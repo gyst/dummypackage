@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys, os
 
-version = '0.3rc6'
+version = '0.3'
 
 setup(name='dummypackage',
       version=version,
@@ -24,3 +24,4 @@ setup(name='dummypackage',
       # -*- Entry points: -*-
       """,
       )
+ )
