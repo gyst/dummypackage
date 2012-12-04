@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys, os
 
-version = '0.4rc1'
+version = '0.4rc2'
 
 setup(name='cosent.dummypackage',
       version=version,
